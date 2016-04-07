@@ -1,3 +1,4 @@
+scalaVersion := "2.11.7"
 
 val commercetoolsJvmSdkCoreVersion = "1.0.0-RC4"
 
